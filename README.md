@@ -1,1 +1,5 @@
-# price-oracle-sample
+# Price Oracle
+
+- Chainlink
+- ETH / USD
+- Goerli test network
